@@ -68,7 +68,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ---
 
 ## Program
-```
+```PY
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
