@@ -104,13 +104,16 @@ plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Histogram Equalized');
 ##  Output
 
 ### Grayscale Histogram Equalization
-
 - Original grayscale image is displayed  
 - Histogram of original grayscale image is plotted  
 - Enhanced image after histogram equalization is displayed  
 - Histogram of enhanced grayscale image shows improved contrast  
 
 ### Color Image Histogram Equalization
+- Original color image is displayed
+- Histogram of B, G, R channels is plotted
+- Enhanced image after HSV-based equalization is displayed
+- Histogram of enhanced image shows better intensity distribution
 
 ### Original color image is displayed  
 <img width="738" height="507" alt="image" src="https://github.com/user-attachments/assets/4339dfc8-8dd0-46e7-8d97-3367c292d4aa" />
