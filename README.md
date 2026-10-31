@@ -115,17 +115,31 @@ plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Histogram Equalized');
 - Enhanced image after HSV-based equalization is displayed
 - Histogram of enhanced image shows better intensity distribution
 
-### Original color image is displayed  
-<img width="738" height="507" alt="image" src="https://github.com/user-attachments/assets/4339dfc8-8dd0-46e7-8d97-3367c292d4aa" />
+### Original Grayscale Image
+<img width="763" height="497" alt="image" src="https://github.com/user-attachments/assets/edf65353-edee-494a-9f44-7638665be3a2" />
 
-### Histogram of B, G, R channels is plotted  
-<img width="790" height="546" alt="image" src="https://github.com/user-attachments/assets/be8eedf0-884e-4a7a-88bf-8ac2a458b6b0" />
 
-### Enhanced image after HSV-based equalization is displayed  
-<img width="712" height="490" alt="image" src="https://github.com/user-attachments/assets/82efb46e-d092-4925-834a-1e8ca94903b1" />
+### Histogram of Original Grayscale Image
+<img width="863" height="548" alt="image" src="https://github.com/user-attachments/assets/a4f895fb-7089-422e-8449-20ae58f24634" />
 
-### Histogram of enhanced image shows better intensity distribution  
-<img width="750" height="542" alt="image" src="https://github.com/user-attachments/assets/a15f2ba8-17ed-446e-8b12-94decac8ec7b" />
+
+### Histogram Equalization
+<img width="783" height="528" alt="image" src="https://github.com/user-attachments/assets/b4566e34-28f2-4612-9a47-85dd6f94a5b6" />
+
+
+### Equalized Grayscale Image
+<img width="756" height="500" alt="image" src="https://github.com/user-attachments/assets/0e5826d4-14fc-481f-8520-1a7ca996c7d6" />
+
+
+### Original Color Image
+<img width="743" height="502" alt="image" src="https://github.com/user-attachments/assets/d0fbb20e-630a-4061-947d-7490c02bf4f7" />
+
+### Histogram Equalized Color Image
+<img width="736" height="492" alt="image" src="https://github.com/user-attachments/assets/183500de-3d80-49ef-b9c9-9f1f4f2a03b6" />
+
+### Histogram of Equalized Color Image
+<img width="757" height="525" alt="image" src="https://github.com/user-attachments/assets/98dbd056-cc08-4a88-b5f0-c91a68c090f1" />
+
 
 ---
 
